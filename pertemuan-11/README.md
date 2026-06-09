@@ -25,4 +25,4 @@ Postorder (Tugas_Strukdat Documents Alice ... C:): Cocok digunakan saat proses p
 
 output:
 
-![output](output.img)
+![output](output.png)
