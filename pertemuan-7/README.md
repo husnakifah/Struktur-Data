@@ -45,7 +45,7 @@ Fungsi ini menghapus elemen yang berada di posisi paling depan.
 
 output: 
 
-![output](pertemuan-7/img/queue.png)
+![output](img/queue.png)
 
 
 ### Implementasi Queue berbasis Linked List
@@ -116,4 +116,4 @@ Fungsi ini menghapus elemen yang berada di barisan paling depan:
 
 output:
 
-![output](pertemuan-7/img/linkedlist.png)
+![output](img/linkedlist.png)
